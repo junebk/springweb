@@ -1,0 +1,5 @@
+package com.spring.deptservice;
+
+public interface DeptService {
+
+}
